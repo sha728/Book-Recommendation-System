@@ -1,0 +1,9 @@
+streamlit
+pandas
+transformers
+torch
+scikit-learn
+prometheus_client
+matplotlib
+seaborn
+requests
